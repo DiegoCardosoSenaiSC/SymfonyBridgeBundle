@@ -34,7 +34,5 @@
     },
     "config": {
         "bin-dir": "bin"
-    },
-    "prefer-stable": true,
-    "minimum-stability": "stable"
+    }
 }
